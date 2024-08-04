@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Series Flame</title>
+    <link rel="icon" href="SF (1).png">
+    <link rel="stylesheet" href="style2.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+    <header class="header">
+        <div class="logo">
+            <a href="index.html"><h1 class="logotext">Series Flame</h1></a>
+        </div>
+        <div class="searchbar">
+            <input class="searchbox" id="searchbox" onkeyup="searchseries()" type="text" placeholder="Series name...">
+            <div class="searchicon">
+                <img class="searchimg"  src="search icon.png" alt="searchicon">
+            </div>
+        </div>
+    </header>
+    <section class="filters">
+        <div class="filterbutton" onclick="filterDramas(event)"><p>All</p></div>
+        <div class="filterbutton" onclick="filterDramas(event)"><p>Love</p></div>
+        <div class="filterbutton" onclick="filterDramas(event)"><p>Fantasy</p></div>
+        <div class="filterbutton" onclick="filterDramas(event)"><p>Sci-fic</p></div>
+        <div class="filterbutton" onclick="filterDramas(event)"><p>Thriller</p></div>
+        <div class="filterbutton" onclick="filterDramas(event)"><p>Action</p></div>
+
+    </section>
+    <section class="dramacollections" id="dramacollections">
+        <!-- <div class="series" id="series">
+            <div class="overlay" id="overlay">
+                 <div class="details">
+                    <h1>GOT</h1>
+                    <h4>IMDB: 8.8</h4>
+                    <p>Emilia Clarke, Peter Dinklage, Kit Harington, Lena Headey, Sophie Turner.</p>
+                    <p class='description' >Description <span class="span"> &#8250;</span></p>
+                </div>
+                <div class="full_desc" >
+                    Elena Gilbert, a high school girl in Mystic Falls, who becomes entangled in the supernatural world after falling in love with vampire brothers Stefan and Damon Salvatore. The series explores their complicated love triangle, along with the town's dark history of witches, werewolves, and other mystical beings.
+                </div>
+                <p class="close">close</p>
+            </div>
+
+            <img class="poster" src="https://i5.walmartimages.com/seo/Game-of-Thrones-Movie-POSTER-11-x-17-Style-G_745ee6ed-ae32-4c8c-bf4a-eff716ac195a.143c2fd0e7cba2912451ad659cb3ca3a.jpeg" alt="poster">
+        </div> -->
+    </section>
+    <footer class="footer">
+        <p>series flame &copy; since <span id="year"></span></p>
+    </footer>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
