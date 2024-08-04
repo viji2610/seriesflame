@@ -4,7 +4,7 @@ let dramas = [
         Title: "Game of Thrones",
         Rating: "9.2",
         Poster: "https://m.media-amazon.com/images/I/51A7EGmxK-L._AC_UF1000,1000_QL80_.jpg",
-        Cast: "Emilia Clarke, Peter Dinklage, Kit Harington, Lena Headey, Sophie Turner.",
+        Cast: "Emilia Clarke, Peter Dinklage, Kit Harington, Lena Headey.",
         Genre: "Fantasy Action",
         Description: " Daenerys Targaryen rises to power in Essos with her dragons, while the Night King and his army of White Walkers threaten all of humanity from beyond the Wall. The series culminates in a final battle for the throne,a new ruler for the realm."
     },
@@ -12,7 +12,7 @@ let dramas = [
         Title: 'House of the Dragon',
         Rating: '8.4',
         Poster: 'https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/06/house-of-the-dragon-poster.jpg',
-        Cast: 'Paddy Considine, Matt Smith, Emma D\'Arcy, Rhys Ifans',
+        Cast: 'Paddy Considine, Matt Smith, Emma D\'Arcy, Rhys Ifans.',
         Genre: 'Action Fantasy',
         Description: "The story focuses on the Targaryen civil war, known as the Dance of the Dragons, which erupts over the succession to the Iron Throne. With intense political intrigue, dragon battles, and familial conflict, the series delves into the complex history that shapes the Targaryen legacy."
     },
@@ -20,7 +20,7 @@ let dramas = [
         Title: "The Vampire Diaries",
         Rating: "7.7",
         Poster: "https://imgc.allpostersimages.com/img/posters/the-vampire-diaries_u-L-F54Q7M0.jpg?artPerspective=n",
-        Cast: "Nina Dobrev,Paul Wesley,Ian Somerhalder.",
+        Cast: "Nina Dobrev, Paul Wesley, Ian Somerhalder.",
         Genre: "Fantasy Love",
         Description: "Elena Gilbert, a high school girl in Mystic Falls, who becomes entangled in the supernatural world after falling in love with vampire brothers Stefan and Damon Salvatore. The series explores their complicated love triangle, along with the town's dark history of witches, werewolves, and other mystical beings."
     },
@@ -28,7 +28,7 @@ let dramas = [
         Title: "Vikings",
         Rating: "8.5",
         Poster: "https://i.ebayimg.com/images/g/WMUAAOSwr2FjEEqN/s-l1200.jpg",
-        Cast: "Travis Fimmel, Katheryn Winnick, Moe Dunford, Josefin Asplund.",
+        Cast: "Travis Fimmel, Katheryn, Moe Dunford, Josefin Asplund.",
         Genre: "Action",
         Description: "Ragnar Lothbrok, a legendary Norse hero, and his journey from farmer to king. The series depicts the brutal and adventurous lives of the Viking warriors, their exploration and raids across Europe, and their quest for glory."
     },
@@ -36,7 +36,7 @@ let dramas = [
         Title: "Stranger Things",
         Rating: "8.7",
         Poster: "https://cdn.europosters.eu/image/750/posters/stranger-things-summer-of-85-i76122.jpg",
-        Cast: "Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Natalia Dyer.",
+        Cast: "Millie Bobby Brown, Gaten, Caleb McLaughlin, Natalia.",
         Genre: "Fantasy Sci-fic",
         Description: "When a young boy, Will Byers, goes missing,in the small town of Hawkins(Indiana), his friends uncover a secret government experiment and encounter a mysterious girl with supernatural abilities."
     },
@@ -44,7 +44,7 @@ let dramas = [
         Title: "Dark",
         Rating: "8.7",
         Poster: "https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
-        Cast: "Louis Hofmann, Karoline Eichhorn, Lisa Vicari, Maja Schone, Jordis Triebel.",
+        Cast: "Louis Hofmann, Karoline, Lisa Vicari, Schone, Jordis.",
         Genre: "Sci-fic Thriller",
         Description: "The series delves into the complex relationships among four estranged families, revealing a time travel conspiracy spanning several generations. As the town's secrets unravel, characters confront their intertwined fates and the cyclical nature of time, leading to apocalyptic consequences."
     },
@@ -110,7 +110,7 @@ let dramas = [
         Title: "True beauty ",
         Rating: "8.0",
         Poster: "https://res.cloudinary.com/jerrick/image/upload/v1677319203/63f9dc2324d9f2001c76cf8e.jpg",
-        Cast: "Moon Ga-young, Cha Eun-woo, Hwang In-Youp, Park Yoo-na, Jang Hye-jin.",
+        Cast: "Moon Ga-young, Cha Eun-woo, Hwang In-Youp, Park Yoo-na.",
         Genre: "Love",
         Description: "A high school girl, who hides her insecurities behind flawless makeup, struggles to maintain her perfect facade while navigating the challenges of teenage life. Her secret is at risk of being exposed when she meets someone who sees through her disguise."
     },
@@ -126,7 +126,7 @@ let dramas = [
         Title: 'All of Us Are Dead',
         Rating: '7.5',
         Poster: 'https://image.tmdb.org/t/p/original/8jUlLqqPVkO7tRtZsGYjWteJJeR.jpg',
-        Cast: 'Park Ji-hu, Yoon Chan-young, Cho Yi-hyun, Park Solomon, Kim Bo-Yoon.',
+        Cast: 'Park Ji-hu, Yoon Chan-young, Cho Yi-hyun, Park Solomon.',
         Genre: 'Thriller Action',
         Description: "During a zombie outbreak at a high school, students must navigate their way through a devastated school while facing the horrors of the undead and the complexity of human relationships. Survival becomes a test of both physical endurance and emotional resilience."
 
