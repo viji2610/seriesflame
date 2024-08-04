@@ -242,13 +242,6 @@ function displayseries(data) {
             console.log('close working');
 
         });
-        // close.addEventListener('click', function () {
-
-        //     overlay.style.opacity = '0';
-        //     console.log('im printed')
-
-        // });
-
     };
 
 };
