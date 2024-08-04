@@ -187,10 +187,14 @@ html {
 .close{
     position: absolute;
     top: 5px; right: 5px;
-    /* color: rgb(107, 107, 107); */
+    /* background-color: rgb(107, 107, 107); */
     color:rgb(228, 146, 228);
     font-size: 9px;
     cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.884);
+    border-radius:10px;
+    padding:0 3px;
+
 }
 
 .footer {
