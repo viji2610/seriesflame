@@ -186,12 +186,12 @@ html {
 }
 .close{
     position: absolute;
-    top: 5px; right: 5px;
+    top: 3px; right: 3px;
     /* background-color: rgb(107, 107, 107); */
     color:rgb(228, 146, 228);
     font-size: 9px;
     cursor: pointer;
-    background-color: rgba(0, 0, 0, 0.884);
+    background-color: rgba(0, 0, 0, 0.534);
     border-radius:10px;
     padding:0 3px;
 
@@ -457,7 +457,7 @@ html {
     }
 
     .details h1 {
-        margin-top: 2px;
+        margin-top: 5px;
         font-size: 13px;
     }
 
@@ -490,7 +490,7 @@ html {
     }
 
     .details h1 {
-        margin-top: 2px;
+        margin-top:5px;
         font-size: 15px;
     }
 }
